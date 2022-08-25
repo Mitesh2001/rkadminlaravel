@@ -1,0 +1,47 @@
+#kt_datatable_wrapper .dt-buttons, #kt_datatable_wrapper .dataTables_filter {
+    /*  float: left;
+    width: 50%;
+   padding-bottom: 15px; */
+}
+.form-control,  
+.select2-container--default .select2-selection--multiple, 
+.select2-container--default .select2-selection--single,
+.input-group>.input-group-append>.btn, .input-group>.input-group-append>.input-group-text, .input-group>.input-group-prepend:first-child>.btn:not(:first-child), .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child), .input-group>.input-group-prepend:not(:first-child)>.btn, .input-group>.input-group-prepend:not(:first-child)>.input-group-text, .table-bordered, .table-bordered td, .table-bordered th, .table thead th,
+.custom-file-label
+{
+    border: 1px solid #989898;
+}
+.input-group i{
+    color:#989898 !important;
+}
+hr, .card-footer {
+    
+    border-top: 1px solid #989898;
+}
+.card-header {
+    border-bottom: 1px solid #989898;
+}
+div.dataTables_wrapper div.dataTables_processing{
+    background: #3699ff;
+    color: #fff;
+    z-index: 1;
+}
+.filter-row {
+    padding: 18px 18px 0 18px;
+}
+.company-btn{
+    padding: 6px 7px 8px 9px;
+}
+h3.form_title span{    
+    font-size: 1.2rem;
+    color: #737373;
+}
+.custom-file {
+    overflow: hidden;
+}
+.select2 {
+    width: inherit !important;
+}
+label.error{
+	color:red !important;
+}

@@ -1,0 +1,22 @@
+/node_modules
+/public/js
+/public/media
+# /public/plugins
+/public/storage
+/storage/*.key
+/storage/*
+/vendor
+.editorconfig
+.env
+.env.backup
+.phpunit.result.cache
+.php_cs.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+mix-manifest.json
+composer.json
+composer.lock
+package.json
+package-lock.json
